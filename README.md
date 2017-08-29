@@ -101,7 +101,7 @@ or using Fastboot (server-side rendering):
 * [ember.js](http://emberjs.com/)
 * [ember-cli](https://ember-cli.com/)
 * [Ember Data](https://github.com/emberjs/data)
-* [Drupal JSON API module](http://https://www.drupal.org/project/jsonapi/)
+* [Drupal JSON API module](https://www.drupal.org/project/jsonapi/)
 * [ember-drupal-waterwheel](https://github.com/acquia/ember-drupal-waterwheel)
 * [JSON API specification](http://jsonapi.org/format/)
 * Development Browser Extensions
